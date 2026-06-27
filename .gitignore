@@ -1,0 +1,38 @@
+# Java / Spring Boot
+target/
+.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+.idea
+*.iws
+*.iml
+*.ipr
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+# VS Code
+.vscode/
+
+# Node
+node_modules/
+npm-debug.log
+
+# Custom local downloads & scripts
+jdk-17/
+jdk-17.zip
+clean_project.py
+inject_data.ps1
+inject_more_data.ps1
