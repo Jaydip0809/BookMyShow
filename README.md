@@ -8,7 +8,7 @@ This project focuses on building a scalable backend architecture similar to real
 
 ## 💻 GitHub Repository
 
-👉 https://github.com/YourName/BookMyShow
+👉 https://github.com/Jaydip0809/BookMyShow
 
 ---
 
